@@ -1,0 +1,1 @@
+savedcmd_/home/roman/Desktop/CSCI_3310/lab_1/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/roman/Desktop/CSCI_3310/lab_1/Module.symvers -T /home/roman/Desktop/CSCI_3310/lab_1/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/roman/Desktop/CSCI_3310/lab_1/lab_one_kernel.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/roman/Desktop/CSCI_3310/lab_1/lab_one_kernel.ko /home/roman/Desktop/CSCI_3310/lab_1/lab_one_kernel.o /home/roman/Desktop/CSCI_3310/lab_1/lab_one_kernel.mod.o;  true
